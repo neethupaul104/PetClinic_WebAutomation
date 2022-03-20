@@ -1,12 +1,11 @@
-Read me file edited
+README
+======
 
-===========
-
-Junit Test
-==========
+PetClinic - JUnit Test Solution 
+===============================
 
 
-Prerequisite
+Prerequiste
 ===========
 JDK 1.8 or higher
 Maven
