@@ -12,14 +12,14 @@ Prerequisite
 
 Steps from terminal
 ===================
-1. git clone https://github.com/spring-projects/spring-petclinic.git
+1. git clone the project
 2. change the path to main project directory using cd "project path"
 3. mvn clean test
 
 
 Step to execute from eclipse
 =============================
-1. git clone https://github.com/spring-projects/spring-petclinic.git
+1. git clone project
 2. Right click on Project folder > Run As Maven Test
 
 ===================================================================
